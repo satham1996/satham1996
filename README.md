@@ -2,8 +2,8 @@
 - 👀 I’m interested in python and django
 - 🌱 I’m currently learning and working
 - 💞️ I’m looking to collaborate on ...
-- 📫 sathamhussains96f@gmail.com
-- 😄 Pronouns: ...
+- 📫 sathamhussainf96@gmail.com
+- 😄 Pronouns: ...HE/HIM
 - ⚡ Fun fact: ...
 
 <!---
