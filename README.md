@@ -1,6 +1,6 @@
-- 👋 Hi, I’m sathamhussain developer
+- 👋 Hi, I’m sathamhussain Fullstack developer
 - 👀 I’m interested in python and django
-- 🌱 I’m currently learning and working
+- 🌱 I’m currently learning and working and creating OwnProjects
 - 💞️ I’m looking to collaborate on ...
 - 📫 sathamhussainf96@gmail.com
 - 😄 Pronouns: ...HE/HIM
